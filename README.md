@@ -13,7 +13,7 @@ A 4-page executive dashboard built in **Power BI** using the [Olist Brazilian E-
 
 > The `.pbix` file exceeds GitHub's 25MB limit and is hosted on Google Drive.
 
-👉 **[Download EXECUTIVE_DASHBOARD.pbix from Google Drive](https://drive.google.com/file/d/1zHMxoFTmfi5Mc7VTe8sfI1iNRerO-ulh/view?usp=sharing)**
+👉 **[Download EXECUTIVE_DASHBOARD.pbix from Google Drive](https://drive.google.com/uc?export=download&id=1zHMxoFTmfi5Mc7VTe8sfI1iNRerO-ulh)**
 
 Open in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) *(free)* and connect to your MySQL database or CSV files to load the data.
 
